@@ -1,3 +1,18 @@
 form {
   text-align: center;
 }
+.search-input {
+  margin: 5px;
+  max-width: 185px;
+}
+.search-button {
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 3px;
+  border-color: #5f1878;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  color: #5f1878;
+  margin-left: 5px;
+  padding: 3px 8px 3px 8px;
+}
