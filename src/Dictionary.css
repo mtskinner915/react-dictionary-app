@@ -4,6 +4,9 @@ form {
 .search-input {
   margin: 5px;
   max-width: 185px;
+  border-color: #5f1878;
+  border-width: 1px;
+  border-radius: 3px;
 }
 .search-button {
   border-style: solid;
