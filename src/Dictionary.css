@@ -1,6 +1,12 @@
 form {
   text-align: center;
 }
+section {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  padding-left: 8px;
+  padding-bottom: 5px;
+}
 .search-input {
   margin: 5px;
   max-width: 185px;

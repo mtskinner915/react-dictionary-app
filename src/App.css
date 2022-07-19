@@ -17,6 +17,7 @@ h2 {
 }
 .container {
   background-color: #d7c1f2;
+  border-radius: 5px;
   min-height: 200px;
 }
 .App-footer {
