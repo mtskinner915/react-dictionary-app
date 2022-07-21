@@ -13,7 +13,15 @@ export default function App() {
           <Dictionary />
         </main>
       </div>
-      <footer className="App-footer">Coded by Margaret Skinner</footer>
+      <footer className="App-footer">
+        <a
+          href="https://github.com/mtskinner915/react-dictionary-app"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Coded by Margaret Skinner
+        </a>
+      </footer>
     </div>
   );
 }
